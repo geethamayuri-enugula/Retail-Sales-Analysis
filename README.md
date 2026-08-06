@@ -1,3 +1,4 @@
+
 # 🛒 Retail Sales & Store Performance Analysis
 
 ## 📌 Project Overview
@@ -13,6 +14,7 @@ It uses data analysis and visualization techniques to understand sales trends, p
 - Python
 - Pandas
 - Matplotlib
+- MySQL
 - Git & GitHub
 
 ## 📊 Key Features
@@ -20,7 +22,7 @@ It uses data analysis and visualization techniques to understand sales trends, p
 ✅ Profit Analysis  
 ✅ Product-wise Sales Insights  
 ✅ Region-wise Performance Analysis  
-✅ Data Visualization using Charts 
+✅ Data Visualization using Charts  
 
 ## 📁 Project Structure
 
@@ -28,6 +30,7 @@ Retail-Sales-Analysis
 │
 ├── dataset
 ├── notebooks
+├── sql
 ├── images
 ├── README.md
 ├── requirements.txt
@@ -37,9 +40,7 @@ Retail-Sales-Analysis
 The project generates:
 - 📊 Sales Analysis Charts
 - 💰 Profit Analysis Charts
-- 🌎 Region-wise Sales pie chart
-
-  These visualizations help in understanding sales trends, profit patterns, and regional performance.
+- 🌎 Region-wise Sales Visualization
 
 
 ## 🚀 Skills Demonstrated
