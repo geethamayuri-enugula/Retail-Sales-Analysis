@@ -1,12 +1,13 @@
 # 🛒 Retail Sales & Store Performance Analysis
 
 ## 📌 Project Overview
-This project analyzes retail sales data using Python, SQL, and Power BI. It provides insights into sales, profit, products, and regional performance
+This project focuses on analyzing retail sales data to discover meaningful business insights. 
+It uses data analysis and visualization techniques to understand sales trends, profit performance, product performance, and regional growth.
 
-## 🎯 Project Objective
+## 🎯 Objective
 - Analyze overall sales and profit performance
 - Identify top-performing products and regions
-- Generate visual insights for better business decisions
+- Generate visual insights for better decision-making
 
 ## 🛠 Technologies & Tools Used
 - Python
@@ -17,12 +18,38 @@ This project analyzes retail sales data using Python, SQL, and Power BI. It prov
 - Git & GitHub
 
 ## 📊 Key Features
-- Sales Performance Analysis
-- Profit Analysis
-- Product-wise Sales Analysis
-- Region-wise Sales Analysis
-- Data Visualization using Charts
-- Interactive Dashboard Creation using Power BI
+✅ Sales Performance Analysis  
+✅ Profit Analysis  
+✅ Product-wise Sales Insights  
+✅ Region-wise Performance Analysis  
+✅ Data Visualization using Charts & Dashboard  
 
 ## 📁 Project Structure
 
+Retail-Sales-Analysis
+│
+├── dataset
+├── notebooks
+├── sql
+├── dashboard
+├── images
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+## 📈 Project Outputs
+The project generates:
+- 📊 Sales Analysis Charts
+- 💰 Profit Analysis Charts
+- 🌎 Region-wise Sales Visualization
+- 📈 Power BI Dashboard
+
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- SQL Queries
+- Data Visualization
+- Business Insights Generation
+
+## 👩‍💻 Author
+Geetha
