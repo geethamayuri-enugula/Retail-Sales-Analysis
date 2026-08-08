@@ -16,6 +16,7 @@ It uses data analysis and visualization techniques to understand sales trends, p
 - Matplotlib
 - MySQL
 - Git & GitHub
+- power BI
 
 ## 📊 Key Features
 ✅ Sales Performance Analysis  
@@ -23,6 +24,7 @@ It uses data analysis and visualization techniques to understand sales trends, p
 ✅ Product-wise Sales Insights  
 ✅ Region-wise Performance Analysis  
 ✅ Data Visualization using Charts  
+✅ Interactive Power BI Dashboard
 
 ## 📁 Project Structure
 
@@ -41,6 +43,7 @@ The project generates:
 - 📊 Sales Analysis Charts
 - 💰 Profit Analysis Charts
 - 🌎 Region-wise Sales Visualization
+- 📋 Interactive Power BI Dashboard
 
 
 ## 🚀 Skills Demonstrated
