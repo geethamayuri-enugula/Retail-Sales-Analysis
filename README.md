@@ -7,7 +7,7 @@ It uses data analysis and visualization techniques to understand sales trends, p
 
 ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](Screenshot 2026-08-09 1055.png)
 
 ## 🎯 Objective
 - Analyze overall sales and profit performance
