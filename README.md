@@ -5,6 +5,10 @@
 This project focuses on analyzing retail sales data to discover meaningful business insights. 
 It uses data analysis and visualization techniques to understand sales trends, profit performance, product performance, and regional growth.
 
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
+
 ## 🎯 Objective
 - Analyze overall sales and profit performance
 - Identify top-performing products and regions
